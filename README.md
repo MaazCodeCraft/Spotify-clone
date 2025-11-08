@@ -1,6 +1,20 @@
 # Spotify Clone
 
+**Live Demo:** [View Project](https://maazcodecraft.github.io/Spotify-clone)
+
+---
+
 A responsive web-based Spotify clone built with HTML and CSS, featuring a modern dark theme interface that mimics the original Spotify design.
+
+## Screenshots
+
+### Home Page
+
+![Project Image 1](project-screenshots/1.png)
+![Project Image 2](project-screenshots/2.png)
+![Project Image 3](project-screenshots/3.png)
+
+---
 
 ## Features
 
