@@ -16,7 +16,7 @@ A responsive web-based Spotify clone built with HTML and CSS, featuring a modern
 
 ---
 
-## Game Demo Video
+## Project Demo Video
 
 [📥 Download Demo Video](project-screenshots/project-video.mp4)
 
